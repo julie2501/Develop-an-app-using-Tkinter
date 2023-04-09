@@ -2,8 +2,7 @@
 
 Here's a simple app using Tkinter in repl.it that creates a window with a label and a button:
 
-python
-Copy code
+python code
 import tkinter as tk
 
 def on_button_click():
